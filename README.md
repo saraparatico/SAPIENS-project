@@ -3,4 +3,4 @@ Project born by a collaboration between AEA (Automation Engineering Association)
 
 
 ## ML_Pow
-Clafficication of  pow values 
+Classification of  pow values 
