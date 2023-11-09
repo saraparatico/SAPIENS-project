@@ -1,0 +1,747 @@
+{
+    "001": {
+        "UserID": "F44",
+        "Readings": {
+            "000000": {
+                "Phase": "baseline 001 F44",
+                "Time": "14:08:01",
+                "Engagement": "0.44548",
+                "Excitement": "0.1709",
+                "Stress": "0.22802",
+                "Relaxation": "0.15734",
+                "Interest": "0.33645",
+                "Focus": "0.12593"
+            },
+            "000001": {
+                "Phase": "baseline 001 F44",
+                "Time": "14:08:11",
+                "Engagement": "0.55628",
+                "Excitement": "0.13379",
+                "Stress": "0.22665",
+                "Relaxation": "0.14213",
+                "Interest": "0.35045",
+                "Focus": "0.15927"
+            },
+            "000002": {
+                "Phase": "baseline 001 F44",
+                "Time": "14:08:21",
+                "Engagement": "0.52813",
+                "Excitement": "0.15716",
+                "Stress": "0.25261",
+                "Relaxation": "0.20136",
+                "Interest": "0.37255",
+                "Focus": "0.21374"
+            },
+            "000003": {
+                "Phase": "baseline 001 F44",
+                "Time": "14:08:31",
+                "Engagement": "0.47878",
+                "Excitement": "0.15839",
+                "Stress": "0.25515",
+                "Relaxation": "0.18257",
+                "Interest": "0.36678",
+                "Focus": "0.13008"
+            },
+            "000004": {
+                "Phase": "baseline 001 F44",
+                "Time": "14:08:42",
+                "Engagement": "0.5318",
+                "Excitement": "0.22486",
+                "Stress": "0.27758",
+                "Relaxation": "0.22317",
+                "Interest": "0.38956",
+                "Focus": "0.17858"
+            },
+            "000005": {
+                "Phase": "baseline 001 F44",
+                "Time": "14:08:51",
+                "Engagement": "0.50031",
+                "Excitement": "0.54137",
+                "Stress": "0.33529",
+                "Relaxation": "0.27072",
+                "Interest": "0.41526",
+                "Focus": "0.21992"
+            },
+            "000006": {
+                "Phase": "baseline 001 F44",
+                "Time": "14:09:01",
+                "Engagement": "0.48399",
+                "Excitement": "0.32994",
+                "Stress": "0.25718",
+                "Relaxation": "0.22721",
+                "Interest": "0.40092",
+                "Focus": "0.21808"
+            },
+            "000007": {
+                "Phase": "baseline 001 F44",
+                "Time": "14:09:12",
+                "Engagement": "0.54555",
+                "Excitement": "0.18461",
+                "Stress": "0.23585",
+                "Relaxation": "0.15359",
+                "Interest": "0.35921",
+                "Focus": "0.12369"
+            },
+            "000008": {
+                "Phase": "baseline 001 F44",
+                "Time": "14:09:22",
+                "Engagement": "0.39564",
+                "Excitement": "0.14032",
+                "Stress": "0.25225",
+                "Relaxation": "0.21367",
+                "Interest": "0.41342",
+                "Focus": "0.21572"
+            },
+            "000009": {
+                "Phase": "baseline 001 F44",
+                "Time": "14:09:31",
+                "Engagement": "0.43151",
+                "Excitement": "0.13298",
+                "Stress": "0.25457",
+                "Relaxation": "0.22748",
+                "Interest": "0.40423",
+                "Focus": "0.19504"
+            },
+            "000010": {
+                "Phase": "baseline 001 F44",
+                "Time": "14:09:42",
+                "Engagement": "0.3684",
+                "Excitement": "0.18029",
+                "Stress": "0.26044",
+                "Relaxation": "0.22588",
+                "Interest": "0.38312",
+                "Focus": "0.1515"
+            },
+            "000011": {
+                "Phase": "baseline 001 F44",
+                "Time": "14:09:52",
+                "Engagement": "0.44402",
+                "Excitement": "0.17988",
+                "Stress": "0.26326",
+                "Relaxation": "0.22151",
+                "Interest": "0.40108",
+                "Focus": "0.17333"
+            },
+            "000012": {
+                "Phase": "baseline 001 F44",
+                "Time": "14:10:02",
+                "Engagement": "0.47966",
+                "Excitement": "0.3016",
+                "Stress": "0.28812",
+                "Relaxation": "0.26491",
+                "Interest": "0.41342",
+                "Focus": "0.16759"
+            },
+            "000013": {
+                "Phase": "baseline 001 F44",
+                "Time": "14:10:12",
+                "Engagement": "0.36629",
+                "Excitement": "0.24311",
+                "Stress": "0.27287",
+                "Relaxation": "0.24291",
+                "Interest": "0.41776",
+                "Focus": "0.11339"
+            },
+            "000014": {
+                "Phase": "baseline 001 F44",
+                "Time": "14:10:22",
+                "Engagement": "0.45311",
+                "Excitement": "0.23287",
+                "Stress": "0.2695",
+                "Relaxation": "0.20808",
+                "Interest": "0.40529",
+                "Focus": "0.19852"
+            },
+            "000015": {
+                "Phase": "baseline 001 F44",
+                "Time": "14:10:32",
+                "Engagement": "0.50875",
+                "Excitement": "0.15612",
+                "Stress": "0.27084",
+                "Relaxation": "0.23237",
+                "Interest": "0.40424",
+                "Focus": "0.19431"
+            },
+            "000016": {
+                "Phase": "baseline occhi chiusi",
+                "Time": "14:11:32",
+                "Engagement": "0.245",
+                "Excitement": "0.30483",
+                "Stress": "0.31935",
+                "Relaxation": "0.35135",
+                "Interest": "0.41461",
+                "Focus": "0.27263"
+            },
+            "000017": {
+                "Phase": "baseline occhi chiusi",
+                "Time": "14:11:42",
+                "Engagement": "0.23514",
+                "Excitement": "0.16139",
+                "Stress": "0.28203",
+                "Relaxation": "0.25328",
+                "Interest": "0.37132",
+                "Focus": "0.20764"
+            },
+            "000018": {
+                "Phase": "baseline occhi chiusi",
+                "Time": "14:11:52",
+                "Engagement": "0.1613",
+                "Excitement": "0.13067",
+                "Stress": "0.2791",
+                "Relaxation": "0.24213",
+                "Interest": "0.3643",
+                "Focus": "0.10814"
+            },
+            "000019": {
+                "Phase": "baseline occhi chiusi",
+                "Time": "14:12:02",
+                "Engagement": "0.20354",
+                "Excitement": "0.12898",
+                "Stress": "0.29955",
+                "Relaxation": "0.27905",
+                "Interest": "0.37203",
+                "Focus": "0.13717"
+            },
+            "000020": {
+                "Phase": "baseline occhi chiusi",
+                "Time": "14:12:12",
+                "Engagement": "0.13311",
+                "Excitement": "0.12833",
+                "Stress": "0.29126",
+                "Relaxation": "0.30896",
+                "Interest": "0.38225",
+                "Focus": "0.07287"
+            },
+            "000021": {
+                "Phase": "baseline occhi chiusi",
+                "Time": "14:12:22",
+                "Engagement": "0.24734",
+                "Excitement": "0.12025",
+                "Stress": "0.28062",
+                "Relaxation": "0.22769",
+                "Interest": "0.36969",
+                "Focus": "0.14744"
+            },
+            "000022": {
+                "Phase": "baseline occhi chiusi",
+                "Time": "14:12:32",
+                "Engagement": "0.29039",
+                "Excitement": "0.12758",
+                "Stress": "0.29487",
+                "Relaxation": "0.25037",
+                "Interest": "0.37034",
+                "Focus": "0.20347"
+            },
+            "000023": {
+                "Phase": "baseline occhi chiusi",
+                "Time": "14:12:42",
+                "Engagement": "0.36627",
+                "Excitement": "0.15543",
+                "Stress": "0.2946",
+                "Relaxation": "0.24083",
+                "Interest": "0.36641",
+                "Focus": "0.21386"
+            },
+            "000024": {
+                "Phase": "baseline occhi chiusi",
+                "Time": "14:12:52",
+                "Engagement": "0.20408",
+                "Excitement": "0.14406",
+                "Stress": "0.26683",
+                "Relaxation": "0.23214",
+                "Interest": "0.37524",
+                "Focus": "0.11784"
+            },
+            "000025": {
+                "Phase": "baseline occhi chiusi",
+                "Time": "14:13:02",
+                "Engagement": "0.2904",
+                "Excitement": "0.16243",
+                "Stress": "0.27828",
+                "Relaxation": "0.2271",
+                "Interest": "0.37281",
+                "Focus": "0.1636"
+            },
+            "000026": {
+                "Phase": "baseline occhi chiusi",
+                "Time": "14:13:12",
+                "Engagement": "0.32869",
+                "Excitement": "0.15334",
+                "Stress": "0.28892",
+                "Relaxation": "0.21501",
+                "Interest": "0.37447",
+                "Focus": "0.22321"
+            },
+            "000027": {
+                "Phase": "baseline occhi chiusi",
+                "Time": "14:13:22",
+                "Engagement": "0.28971",
+                "Excitement": "0.14399",
+                "Stress": "0.28839",
+                "Relaxation": "0.28236",
+                "Interest": "0.38722",
+                "Focus": "0.13014"
+            },
+            "000028": {
+                "Phase": "baseline occhi chiusi",
+                "Time": "14:13:32",
+                "Engagement": "0.35162",
+                "Excitement": "0.13998",
+                "Stress": "0.28956",
+                "Relaxation": "0.24213",
+                "Interest": "0.38356",
+                "Focus": "0.21609"
+            },
+            "000029": {
+                "Phase": "baseline occhi chiusi",
+                "Time": "14:13:42",
+                "Engagement": "0.38034",
+                "Excitement": "0.1516",
+                "Stress": "0.27816",
+                "Relaxation": "0.20801",
+                "Interest": "0.38026",
+                "Focus": "0.27683"
+            },
+            "000030": {
+                "Phase": "baseline occhi chiusi",
+                "Time": "14:13:52",
+                "Engagement": "0.33247",
+                "Excitement": "0.18396",
+                "Stress": "0.28644",
+                "Relaxation": "0.22217",
+                "Interest": "0.39546",
+                "Focus": "0.31862"
+            },
+            "000031": {
+                "Phase": "baseline occhi chiusi",
+                "Time": "14:14:02",
+                "Engagement": "0.22534",
+                "Excitement": "0.28747",
+                "Stress": "0.30366",
+                "Relaxation": "0.26677",
+                "Interest": "0.40801",
+                "Focus": "0.20513"
+            },
+            "000032": {
+                "Phase": "baseline occhi chiusi",
+                "Time": "14:14:12",
+                "Engagement": "0.40116",
+                "Excitement": "0.18202",
+                "Stress": "0.30319",
+                "Relaxation": "0.26381",
+                "Interest": "0.39504",
+                "Focus": "0.25591"
+            },
+            "000033": {
+                "Phase": "baseline occhi chiusi",
+                "Time": "14:14:22",
+                "Engagement": "0.4572",
+                "Excitement": "0.16997",
+                "Stress": "0.30995",
+                "Relaxation": "0.23107",
+                "Interest": "0.38859",
+                "Focus": "0.42217"
+            },
+            "000034": {
+                "Phase": "Macchinine 1",
+                "Time": "14:19:02",
+                "Engagement": "0.46015",
+                "Excitement": "0.71397",
+                "Stress": "0.56241",
+                "Relaxation": "0.56237",
+                "Interest": "0.81751",
+                "Focus": "0.42815"
+            },
+            "000035": {
+                "Phase": "Macchinine 1",
+                "Time": "14:19:12",
+                "Engagement": "0.60153",
+                "Excitement": "0.57437",
+                "Stress": "0.40424",
+                "Relaxation": "0.38592",
+                "Interest": "0.45738",
+                "Focus": "0.51202"
+            },
+            "000036": {
+                "Phase": "Macchinine 1",
+                "Time": "14:19:22",
+                "Engagement": "0.63539",
+                "Excitement": "0.48968",
+                "Stress": "0.41083",
+                "Relaxation": "0.44047",
+                "Interest": "0.47599",
+                "Focus": "0.42387"
+            },
+            "000037": {
+                "Phase": "Macchinine 1",
+                "Time": "14:19:32",
+                "Engagement": "0.50568",
+                "Excitement": "0.71503",
+                "Stress": "0.37649",
+                "Relaxation": "0.39614",
+                "Interest": "0.50829",
+                "Focus": "0.33653"
+            },
+            "000038": {
+                "Phase": "Macchinine 1",
+                "Time": "14:19:42",
+                "Engagement": "0.61571",
+                "Excitement": "0.61146",
+                "Stress": "0.37281",
+                "Relaxation": "0.38681",
+                "Interest": "0.47937",
+                "Focus": "0.5127"
+            },
+            "000039": {
+                "Phase": "Macchinine 1",
+                "Time": "14:19:52",
+                "Engagement": "0.52233",
+                "Excitement": "0.64805",
+                "Stress": "0.39025",
+                "Relaxation": "0.37944",
+                "Interest": "0.48478",
+                "Focus": "0.4816"
+            },
+            "000040": {
+                "Phase": "Macchinine 1",
+                "Time": "14:20:02",
+                "Engagement": "0.62293",
+                "Excitement": "0.45435",
+                "Stress": "0.32605",
+                "Relaxation": "0.2967",
+                "Interest": "0.41411",
+                "Focus": "0.54127"
+            },
+            "000041": {
+                "Phase": "Macchinine 1",
+                "Time": "14:20:12",
+                "Engagement": "0.47666",
+                "Excitement": "0.61315",
+                "Stress": "0.39153",
+                "Relaxation": "0.3543",
+                "Interest": "0.45886",
+                "Focus": "0.48298"
+            },
+            "000042": {
+                "Phase": "Macchinine 1",
+                "Time": "14:20:22",
+                "Engagement": "0.69558",
+                "Excitement": "0.33141",
+                "Stress": "0.3247",
+                "Relaxation": "0.33115",
+                "Interest": "0.42775",
+                "Focus": "0.54251"
+            },
+            "000043": {
+                "Phase": "Macchinine 1",
+                "Time": "14:20:32",
+                "Engagement": "0.57345",
+                "Excitement": "0.44124",
+                "Stress": "0.32792",
+                "Relaxation": "0.31533",
+                "Interest": "0.40977",
+                "Focus": "0.42609"
+            },
+            "000044": {
+                "Phase": "Macchinine 1",
+                "Time": "14:20:42",
+                "Engagement": "0.63553",
+                "Excitement": "0.48829",
+                "Stress": "0.38085",
+                "Relaxation": "0.41899",
+                "Interest": "0.43156",
+                "Focus": "0.47383"
+            },
+            "000045": {
+                "Phase": "Macchinine 1",
+                "Time": "14:20:52",
+                "Engagement": "0.62762",
+                "Excitement": "0.6377",
+                "Stress": "0.40845",
+                "Relaxation": "0.41919",
+                "Interest": "0.46831",
+                "Focus": "0.34003"
+            },
+            "000046": {
+                "Phase": "Macchinine 1",
+                "Time": "14:21:02",
+                "Engagement": "0.67667",
+                "Excitement": "0.48615",
+                "Stress": "0.32947",
+                "Relaxation": "0.26756",
+                "Interest": "0.40095",
+                "Focus": "0.60664"
+            },
+            "000047": {
+                "Phase": "Macchinine 1",
+                "Time": "14:21:12",
+                "Engagement": "0.6329",
+                "Excitement": "0.60929",
+                "Stress": "0.43303",
+                "Relaxation": "0.47409",
+                "Interest": "0.5499",
+                "Focus": "0.36731"
+            },
+            "000048": {
+                "Phase": "Macchinine 1",
+                "Time": "14:21:22",
+                "Engagement": "0.57966",
+                "Excitement": "0.5557",
+                "Stress": "0.48346",
+                "Relaxation": "0.49735",
+                "Interest": "0.62329",
+                "Focus": "0.42415"
+            },
+            "000049": {
+                "Phase": "Macchinine 1",
+                "Time": "14:21:32",
+                "Engagement": "0.62482",
+                "Excitement": "0.57631",
+                "Stress": "0.38961",
+                "Relaxation": "0.38254",
+                "Interest": "0.46843",
+                "Focus": "0.55473"
+            },
+            "000050": {
+                "Phase": "Macchinine 1",
+                "Time": "14:21:42",
+                "Engagement": "0.54413",
+                "Excitement": "0.59304",
+                "Stress": "0.48386",
+                "Relaxation": "0.49724",
+                "Interest": "0.50638",
+                "Focus": "0.52378"
+            },
+            "000051": {
+                "Phase": "Macchinine 1",
+                "Time": "14:21:52",
+                "Engagement": "0.55201",
+                "Excitement": "0.64097",
+                "Stress": "0.56644",
+                "Relaxation": "0.6573",
+                "Interest": "0.65063",
+                "Focus": "0.33623"
+            },
+            "000052": {
+                "Phase": "Macchinine 1",
+                "Time": "14:22:02",
+                "Engagement": "0.62122",
+                "Excitement": "0.58667",
+                "Stress": "0.50301",
+                "Relaxation": "0.53599",
+                "Interest": "0.51448",
+                "Focus": "0.55816"
+            },
+            "000053": {
+                "Phase": "sudoku",
+                "Time": "14:31:22",
+                "Engagement": "0.20122",
+                "Excitement": "0.53673",
+                "Stress": "0.24781",
+                "Relaxation": "0.16412",
+                "Interest": "0.49895",
+                "Focus": "0.15158"
+            },
+            "000054": {
+                "Phase": "sudoku",
+                "Time": "14:31:32",
+                "Engagement": "0.22742",
+                "Excitement": "0.54818",
+                "Stress": "0.31042",
+                "Relaxation": "0.26462",
+                "Interest": "0.52937",
+                "Focus": "0.2015"
+            },
+            "000055": {
+                "Phase": "sudoku",
+                "Time": "14:31:42",
+                "Engagement": "0.17086",
+                "Excitement": "0.5398",
+                "Stress": "0.27814",
+                "Relaxation": "0.17001",
+                "Interest": "0.5383",
+                "Focus": "0.18141"
+            },
+            "000056": {
+                "Phase": "sudoku",
+                "Time": "14:31:52",
+                "Engagement": "0.36351",
+                "Excitement": "0.69417",
+                "Stress": "0.50234",
+                "Relaxation": "0.51423",
+                "Interest": "0.50517",
+                "Focus": "0.19035"
+            },
+            "000057": {
+                "Phase": "sudoku",
+                "Time": "14:32:02",
+                "Engagement": "0.59801",
+                "Excitement": "0.73033",
+                "Stress": "0.56224",
+                "Relaxation": "0.58188",
+                "Interest": "0.54418",
+                "Focus": "0.2745"
+            },
+            "000058": {
+                "Phase": "sudoku",
+                "Time": "14:32:12",
+                "Engagement": "0.60152",
+                "Excitement": "0.72778",
+                "Stress": "0.59798",
+                "Relaxation": "0.65289",
+                "Interest": "0.582",
+                "Focus": "0.40919"
+            },
+            "000059": {
+                "Phase": "sudoku",
+                "Time": "14:32:22",
+                "Engagement": "0.50711",
+                "Excitement": "0.71042",
+                "Stress": "0.67858",
+                "Relaxation": "0.81173",
+                "Interest": "0.64907",
+                "Focus": "0.25798"
+            },
+            "000060": {
+                "Phase": "sudoku",
+                "Time": "14:32:32",
+                "Engagement": "0.47751",
+                "Excitement": "0.72028",
+                "Stress": "0.68306",
+                "Relaxation": "0.74061",
+                "Interest": "0.50356",
+                "Focus": "0.35358"
+            },
+            "000061": {
+                "Phase": "sudoku",
+                "Time": "14:32:42",
+                "Engagement": "0.34475",
+                "Excitement": "0.72738",
+                "Stress": "0.70521",
+                "Relaxation": "0.80244",
+                "Interest": "0.51425",
+                "Focus": "0.2661"
+            },
+            "000062": {
+                "Phase": "sudoku",
+                "Time": "14:32:52",
+                "Engagement": "0.38565",
+                "Excitement": "0.65772",
+                "Stress": "0.50966",
+                "Relaxation": "0.52411",
+                "Interest": "0.4392",
+                "Focus": "0.29687"
+            },
+            "000063": {
+                "Phase": "sudoku",
+                "Time": "14:33:02",
+                "Engagement": "0.34834",
+                "Excitement": "0.62013",
+                "Stress": "0.46256",
+                "Relaxation": "0.49665",
+                "Interest": "0.40928",
+                "Focus": "0.28615"
+            },
+            "000064": {
+                "Phase": "sudoku",
+                "Time": "14:33:12",
+                "Engagement": "0.43731",
+                "Excitement": "0.7261",
+                "Stress": "0.46339",
+                "Relaxation": "0.39241",
+                "Interest": "0.55784",
+                "Focus": "0.34747"
+            },
+            "000065": {
+                "Phase": "sudoku",
+                "Time": "14:33:22",
+                "Engagement": "0.65683",
+                "Excitement": "0.7271",
+                "Stress": "0.53562",
+                "Relaxation": "0.58106",
+                "Interest": "0.71448",
+                "Focus": "0.43741"
+            },
+            "000066": {
+                "Phase": "sudoku",
+                "Time": "14:33:32",
+                "Engagement": "0.61293",
+                "Excitement": "0.68936",
+                "Stress": "0.63013",
+                "Relaxation": "0.74106",
+                "Interest": "0.64992",
+                "Focus": "0.32452"
+            },
+            "000067": {
+                "Phase": "sudoku",
+                "Time": "14:33:42",
+                "Engagement": "0.46436",
+                "Excitement": "0.67954",
+                "Stress": "0.48607",
+                "Relaxation": "0.48542",
+                "Interest": "0.42725",
+                "Focus": "0.28689"
+            },
+            "000068": {
+                "Phase": "sudoku",
+                "Time": "14:33:52",
+                "Engagement": "0.59423",
+                "Excitement": "0.72915",
+                "Stress": "0.59372",
+                "Relaxation": "0.69069",
+                "Interest": "0.58924",
+                "Focus": "0.27851"
+            },
+            "000069": {
+                "Phase": "sudoku",
+                "Time": "14:34:02",
+                "Engagement": "0.61076",
+                "Excitement": "0.70802",
+                "Stress": "0.56426",
+                "Relaxation": "0.62843",
+                "Interest": "0.56655",
+                "Focus": "0.31909"
+            },
+            "000070": {
+                "Phase": "sudoku",
+                "Time": "14:34:12",
+                "Engagement": "0.32223",
+                "Excitement": "0.45617",
+                "Stress": "0.33771",
+                "Relaxation": "0.33352",
+                "Interest": "0.33094",
+                "Focus": "0.19374"
+            },
+            "000071": {
+                "Phase": "sudoku",
+                "Time": "14:34:22",
+                "Engagement": "0.28396",
+                "Excitement": "0.53986",
+                "Stress": "0.34353",
+                "Relaxation": "0.31143",
+                "Interest": "0.55644",
+                "Focus": "0.19726"
+            },
+            "000072": {
+                "Phase": "sudoku",
+                "Time": "14:34:32",
+                "Engagement": "0.53766",
+                "Excitement": "0.6928",
+                "Stress": "0.492",
+                "Relaxation": "0.52472",
+                "Interest": "0.56211",
+                "Focus": "0.27395"
+            },
+            "000073": {
+                "Phase": "sudoku",
+                "Time": "14:34:42",
+                "Engagement": "0.29241",
+                "Excitement": "0.62181",
+                "Stress": "0.41431",
+                "Relaxation": "0.3734",
+                "Interest": "0.50277",
+                "Focus": "0.21107"
+            }
+        }
+    }
+}
