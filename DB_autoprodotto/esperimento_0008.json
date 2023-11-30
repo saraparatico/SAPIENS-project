@@ -1,4 +1,4 @@
-{
+[{
     "descrizione": "baseline",
     "timestamp_inizio": "17:51:06.370873Z",
     "timestamp_fine": "17:52:06.377637Z",
@@ -14402,7 +14402,7 @@
         ],
         "time": 1701017526.1809
     }
-}{
+},{
     "descrizione": "sudoku",
     "timestamp_inizio": "17:52:36.680048Z",
     "timestamp_fine": "17:53:36.684089Z",
@@ -28806,4 +28806,4 @@
         ],
         "time": 1701017616.5266
     }
-}
+}]

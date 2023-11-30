@@ -1,4 +1,4 @@
-{
+[{
     "descrizione": "baseline",
     "timestamp_inizio": "16:45:13.114944Z",
     "timestamp_fine": "16:46:13.117333Z",
@@ -14432,7 +14432,7 @@
         ],
         "time": 1701013572.9705
     }
-}{
+},{
     "descrizione": "sudoku",
     "timestamp_inizio": "16:46:39.345933Z",
     "timestamp_fine": "16:47:39.352175Z",
@@ -28866,7 +28866,7 @@
         ],
         "time": 1701013659.1926
     }
-}{
+},{
     "descrizione": "sudoku",
     "timestamp_inizio": "16:47:54.760022Z",
     "timestamp_fine": "16:48:54.762624Z",
@@ -43270,7 +43270,7 @@
         ],
         "time": 1701013734.543
     }
-}{
+},{
     "descrizione": "sudoku",
     "timestamp_inizio": "16:50:20.943212Z",
     "timestamp_fine": "16:51:20.950916Z",
@@ -57674,4 +57674,4 @@
         ],
         "time": 1701013880.7467
     }
-}
+}]
